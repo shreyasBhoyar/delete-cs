@@ -1,5 +1,4 @@
-oclif-hello-world
-=================
+
 
 oclif example Hello World CLI
 
